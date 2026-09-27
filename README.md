@@ -29,6 +29,14 @@
 ## B站演示视频：
 [演示视频](https://b23.tv/bGXyhjU)
 
+## 🌐 在线体验
+
+> **[立即体验 BiliMind →](https://www.bilimind.xyz/)** · 首次扫码登录赠送 100 积分
+
+建议先选一个**只含 1–3 个短视频的收藏夹**（也可以新建测试收藏夹），体验视频处理、检索和问答后再逐步增加。按在线版当前费率，10 分钟视频若需语音转写，仅转写约消耗 **6 积分**，内容处理和问答另计。**100 积分粗略可体验约 5 个这样的短视频和数次问答**；实际消耗取决于视频时长、分 P、是否需要转写和问答长度，以站内积分记录为准。
+
+本地部署使用你自己的模型 API Key，不消耗在线版积分。
+
 ## ⭐ Star History
 [![Star History Chart](https://api.star-history.com/svg?repos=via007/bilibili-rag&type=Date)](https://star-history.com/#via007/bilibili-rag&Date)
 

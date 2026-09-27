@@ -31,6 +31,14 @@ It is useful for interviews, talks, courses, public lectures, technical videos, 
 
 Bilibili demo video: [https://b23.tv/bGXyhjU](https://b23.tv/bGXyhjU)
 
+## 🌐 Try It Online
+
+> **[Try BiliMind online →](https://www.bilimind.xyz/)** · Get 100 credits on your first QR-code login
+
+Start with a favorite folder containing **just 1–3 short videos** (you can create a test folder), then add more after trying video processing, search, and chat. At the current hosted rates, transcribing a 10-minute video costs about **6 credits** when transcription is needed; content processing and chat use additional credits. As a rough guide, **100 credits can cover about five such videos and a few questions**. Actual usage depends on video length, multi-part videos, whether transcription is needed, and question length; check your credit history on the site.
+
+Self-hosting uses your own model API key and does not use credits from the hosted site.
+
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=via007/bilibili-rag&type=Date)](https://star-history.com/#via007/bilibili-rag&Date)
